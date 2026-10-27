@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Large data files
+data/*.csv
+!data/weather_2024.csv
+!data/daily_rides_weather.csv
